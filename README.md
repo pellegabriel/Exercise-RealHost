@@ -1,4 +1,5 @@
 # Exercise-RealHost
-# Pasos a seguir para levantar el proyecto localmente
-Para levantar el host ejecutar primero "yarn"
-y luego de eso ejecutar un "yarn dev"
+Simple quote generator app utilizing react, redux and redux saga for realhost.
+## Steps to follow to raise the project locally
+To start the host run "yarn" first
+and after that execute a "yarn dev"
